@@ -8,6 +8,10 @@ public class newTestB {
     }
 
     public void newTestBCD2(){
+      
+    }
+
+    public void newTestBB32(){
 
     }
 }
